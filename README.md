@@ -41,13 +41,7 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Mojjammil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mojjammil&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://mojjammil.github.io
 [course]: https://www.linkedin.com/feed/update/urn:li:activity:6714126661194944514/
