@@ -41,7 +41,7 @@
 <br />
 
 ---
-  <img align="left" alt="Mojjammil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mojjammil&show_icons=false&hide_border=true" />
+[![Mojjammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojjammil&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://mojjammil.github.io
 [course]: https://www.linkedin.com/feed/update/urn:li:activity:6714126661194944514/
