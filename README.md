@@ -8,7 +8,7 @@
 - 🔭 I recently completed teaching a fullstack javascript training: [Fullstack JavaScript at The Shortcut][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I once lost 32kgs in 4 months
 
 ### Connect with me:
